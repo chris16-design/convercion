@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">conversion de monedas</string>
+    <string name="title">Conversión de monedas</string>
+    <string name="euro">Euro</string>
+    <string name="dolar">Dólar</string>
+    <string name="libra">Libra</string>
+    <string name="yen">Yen</string>
+    <string name="won">Won</string>
+</resources>
